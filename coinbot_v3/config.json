@@ -1,0 +1,121 @@
+[
+  {
+    "symbol": "BTC/USDT",
+    "leverage": 90,
+    "amount": 2.0,
+    "target_roe": 10.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "ETH/USDT",
+    "leverage": 40,
+    "amount": 1.0,
+    "target_roe": 10.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "SOL/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "BNB/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "XRP/USDT",
+    "leverage": 40,
+    "amount": 5.0,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "ADA/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "AVAX/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "DOT/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "LINK/USDT",
+    "leverage": 40,
+    "amount": 0.6,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "TRX/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "hybrid"
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "1000PEPE/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "1000SHIB/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "WLD/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "NEAR/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "SUI/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  },
+  {
+    "symbol": "APT/USDT",
+    "leverage": 40,
+    "amount": 0.5,
+    "target_roe": 13.0,
+    "strategy": "aggressive"
+  }
+]
