@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "COINBOT",
-      script: "coinbot.py",
+      script: "coinbot_v6.py",
       interpreter: "python3",
       autorestart: true
     },
