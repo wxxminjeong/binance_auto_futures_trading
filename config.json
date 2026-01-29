@@ -3,144 +3,176 @@
     "symbol": "ETH/USDT",
     "leverage": 10,
     "amount": 3.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 5.5,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.0,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "BNB/USDT",
     "leverage": 10,
     "amount": 3.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 5.5,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.0,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "SOL/USDT",
     "leverage": 10,
     "amount": 3.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 5.5,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.0,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "XRP/USDT",
     "leverage": 10,
     "amount": 3.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 5.5,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.0,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "ADA/USDT",
     "leverage": 10,
     "amount": 3.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 5.5,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.0,
+    "strategy": "ultra_safe"
+  },
+  {
+    "symbol": "POL/USDT",
+    "leverage": 10,
+    "amount": 2.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
+    "strategy": "ultra_safe"
+  },
+  {
+    "symbol": "OP/USDT",
+    "leverage": 10,
+    "amount": 2.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
+    "strategy": "ultra_safe"
+  },
+  {
+    "symbol": "LTC/USDT",
+    "leverage": 10,
+    "amount": 2.1,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "AVAX/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "DOT/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "LINK/USDT",
     "leverage": 10,
-    "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "amount": 2.2,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "TRX/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "NEAR/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "APT/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "SUI/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "ARB/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "FIL/USDT",
     "leverage": 10,
     "amount": 2.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
+    "strategy": "ultra_safe"
+  },
+  {
+    "symbol": "FET/USDT",
+    "leverage": 10,
+    "amount": 2.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "DOGE/USDT",
     "leverage": 10,
     "amount": 1.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "1000PEPE/USDT",
     "leverage": 10,
-    "amount": 1.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "amount": 2.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "1000SHIB/USDT",
     "leverage": 10,
-    "amount": 1.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "amount": 2.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   },
   {
     "symbol": "WLD/USDT",
     "leverage": 10,
     "amount": 1.0,
-    "target_roe": 2.5,
-    "stop_loss_roe": 6.0,
+    "target_roe": 3.5,
+    "stop_loss_roe": 4.5,
     "strategy": "ultra_safe"
   }
 ]
